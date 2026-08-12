@@ -1,0 +1,42 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.12 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://172.22.60.20:3000
+- Environments: .env.local
+✓ Ready in 1621ms
+
+○ Compiling /login ...
+ GET /login 200 in 10.0s (next.js: 8.8s, proxy.ts: 92ms, application-code: 1176ms)
+ GET /login 200 in 12.1s (next.js: 10.0s, proxy.ts: 564ms, application-code: 1474ms)
+ GET /login 200 in 207ms (next.js: 42ms, proxy.ts: 13ms, application-code: 152ms)
+○ Compiling /dashboard ...
+ GET /dashboard 200 in 6.4s (next.js: 5.7s, proxy.ts: 19ms, application-code: 701ms)
+ GET /dashboard/attendance 200 in 1982ms (next.js: 1689ms, proxy.ts: 23ms, application-code: 271ms)
+ GET /dashboard/tasks 200 in 1726ms (next.js: 1485ms, proxy.ts: 16ms, application-code: 225ms)
+ GET /dashboard 200 in 112ms (next.js: 18ms, proxy.ts: 17ms, application-code: 77ms)
+ GET /dashboard/attendance 200 in 117ms (next.js: 13ms, proxy.ts: 14ms, application-code: 90ms)
+ GET /dashboard/attendance 200 in 262ms (next.js: 28ms, proxy.ts: 14ms, application-code: 221ms)
+ GET /dashboard 200 in 137ms (next.js: 34ms, proxy.ts: 23ms, application-code: 80ms)
+ GET /dashboard/tasks 200 in 85ms (next.js: 19ms, proxy.ts: 10ms, application-code: 56ms)
+ GET /dashboard 200 in 80ms (next.js: 14ms, proxy.ts: 9ms, application-code: 57ms)
+ GET /dashboard/attendance 200 in 98ms (next.js: 30ms, proxy.ts: 7ms, application-code: 61ms)
+ GET /login 200 in 112ms (next.js: 26ms, proxy.ts: 16ms, application-code: 69ms)
+○ Compiling /admin ...
+ GET /admin 200 in 3.3s (next.js: 3.2s, proxy.ts: 14ms, application-code: 78ms)
+○ Compiling /admin/attendance ...
+ GET /admin/attendance 200 in 11.6s (next.js: 11.4s, proxy.ts: 27ms, application-code: 165ms)
+ GET /login 200 in 116ms (next.js: 22ms, proxy.ts: 20ms, application-code: 74ms)
+ GET /dashboard 200 in 102ms (next.js: 17ms, proxy.ts: 9ms, application-code: 76ms)
+ GET /dashboard/attendance 200 in 80ms (next.js: 16ms, proxy.ts: 11ms, application-code: 54ms)
+ GET /dashboard/attendance 200 in 497ms (next.js: 119ms, proxy.ts: 52ms, application-code: 325ms)
+ GET /dashboard 200 in 99ms (next.js: 34ms, proxy.ts: 10ms, application-code: 55ms)
+ GET /dashboard/attendance 200 in 81ms (next.js: 14ms, proxy.ts: 8ms, application-code: 59ms)
+ GET /dashboard 200 in 77ms (next.js: 16ms, proxy.ts: 14ms, application-code: 47ms)
+ GET /login 200 in 142ms (next.js: 50ms, proxy.ts: 21ms, application-code: 71ms)
+ GET /admin 200 in 119ms (next.js: 36ms, proxy.ts: 11ms, application-code: 72ms)
+ GET /admin/attendance 200 in 113ms (next.js: 39ms, proxy.ts: 7ms, application-code: 67ms)
+ GET /admin/attendance 200 in 706ms (next.js: 151ms, proxy.ts: 96ms, application-code: 460ms)
+[?25h
