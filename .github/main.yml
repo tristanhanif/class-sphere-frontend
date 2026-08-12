@@ -1,4 +1,4 @@
-name: Deploy Next.js
+  name: Deploy Next.js
 
 on:
   push:
@@ -18,7 +18,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '24'
+          node-version: '20'
           cache: 'npm'
 
       # 3. Install dependencies & Build
